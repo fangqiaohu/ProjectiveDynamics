@@ -1,2 +1,2 @@
 # ProjectiveDynamics
-A simplified implementation of Projective Dynamics (SIGGRAPH 2014).
+A simplified implementation of (Projective Dynamics)[https://www.projectivedynamics.org/Projective_Dynamics/index.html] (SIGGRAPH 2014).
